@@ -21,7 +21,7 @@ const Header = () => {
   );
 };
 
-function Technologies() {
+const Technologies = () => {
   return (
     <ul>
       <li>css</li>
