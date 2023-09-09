@@ -16,7 +16,7 @@ const App = () => {
         <a href='#s'>Masseges</a>
         <a href='#s'>Masseges</a>
         <a href='#s'>Masseges</a>
-        <a href='#s'>Masseges</a>
+        <a href='#s'>Settings</a>
       </nav>
       <div className="content">
         Main Content
