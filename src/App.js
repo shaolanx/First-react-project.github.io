@@ -13,9 +13,9 @@ const App = () => {
       </header>
       <nav className="nav">
         <a href='#s'>Profile</a>
-        <a href='#s'>Masseges</a>
-        <a href='#s'>Masseges</a>
-        <a href='#s'>Masseges</a>
+        <a href='#s'>Masseges --- 01 </a>
+        <a href='#s'>Masseges --- 02 </a>
+        <a href='#s'>Masseges --- 03 </a>
         <a href='#s'>Settings</a>
       </nav>
       <div className="content">
@@ -24,5 +24,7 @@ const App = () => {
     </div>
   );
 }
+
+//это тестовый текст
 
 export default App;
